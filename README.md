@@ -28,7 +28,7 @@ Um projeto de análise de dados e previsão de rotatividade de funcionários usa
 
 Para usar este projeto, siga estas instruções:
 
-1. Clone o repositório: git clone https://github.com/GuilhermeBrevilato/datascience.git
+1. Clone o repositório: git clone https://github.com/GuilhermeBrevilato/google_capstone_project.git
 
 2. Instale as dependências:$ pip install -r requirements.txt
 
