@@ -28,10 +28,9 @@ Um projeto de análise de dados e previsão de rotatividade de funcionários usa
 
 Para usar este projeto, siga estas instruções:
 
+1. Execute o notebook Jupyter para analisar os dados e treinar modelos.
 
-3. Execute o notebook Jupyter para analisar os dados e treinar modelos.
-
-4. Explore os resultados e visualizações gerados para prever a rotatividade de funcionários.
+2. Explore os resultados e visualizações gerados para prever a rotatividade de funcionários.
 
 ## Resultados dos Modelos
 
