@@ -12,10 +12,6 @@ Um projeto de análise de dados e previsão de rotatividade de funcionários usa
 - [Contribuições](#contribuições)
 - [Licença](#licença)
 
-## Demonstração
-
-[Inclua links para demonstrações do seu projeto, capturas de tela ou GIFs animados.]
-
 ## Tecnologias Utilizadas
 
 - Python
